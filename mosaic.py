@@ -4,9 +4,9 @@
 # In[122]:
 
 
-### Authors: Aditya Jain and Taneea S Agrawaal (IIIT-Delhi) #####
+### Authors: Yoojin Choi (Ella) #####
 ### Topic: Mosaicing of Drone Imagery ###
-### Start Date: 10th March, 2018 ###
+### Start Date: 27th Nov, 2018 ###
 
 import cv2
 import numpy as np
